@@ -1,5 +1,13 @@
 # Lista 2 - Exercícios de Flutter (Listas, ListView e Cards)
 
+## 🧑‍🎓 Dados do Aluno
+
+* **Nome:** João Alex Garcia, 202410228
+* **Instituição:** EEP - Escola de Engenharia de Piracicaba
+* **Curso:** Ciência da Computação
+* **Ferramentas:** VS Code + Flutter SDK
+* **Período:** Setembro / 2026
+
 Este repositório contém a resolução dos exercícios práticos propostos no Material 2 da disciplina de Programação de Aplicativos Móveis.
 
 ## 📌 Sobre a Atividade
